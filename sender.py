@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-import  socket
+#importing important modules
+import  socket 
 #  creating  udp socket 
 #                    ipv4     ,  UDP 
 s=socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
