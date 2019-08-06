@@ -1,3 +1,4 @@
+#this is a given list
 list=[1,2,3,1,4,5,66,22,2,6,0,9]
 list1=[]
 list2=[]
