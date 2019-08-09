@@ -12,4 +12,4 @@ if(flag==1):
 	print("invalid usrname")
 else:
 	password="hello"+username
-print("user added")#this will show the user which you added
+print("user added")#this will show the user that you have added
