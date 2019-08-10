@@ -15,5 +15,5 @@ while True:
 	web=s.recvfrom(100)
 	print(web)
 	time.sleep(3)
-#   eply  to  send
+#   reply  to  send
 s.sendto("niceeeeeeeeeeeeee".encode('ascii'),web[1])
