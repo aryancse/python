@@ -2,7 +2,7 @@
 
 hrs = input("Enter Hours:")# enter the hours
 h = float(hrs)#after converting it to float
-rate = input("Enter rate:")
+rate = input("Enter rate:")#enter the hours
 r = float(rate)
 def computepay(h,r):
     if h <= 40:
