@@ -12,4 +12,4 @@ for i in list:
 		print(i)
 		list2.append(i)
 print(list1)
-print(list2)
+print(list2) #both the list are showing
