@@ -4,7 +4,7 @@ largest = None
 smallest = None
 
 while True:
-    inp = raw_input("Enter a number: ")
+    inp = raw_input("Enter any number: ")
     if inp == "done" : break
     try:
         num = float(inp)
